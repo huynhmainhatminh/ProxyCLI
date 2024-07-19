@@ -13,3 +13,10 @@ PROXIES PREMIUM SCRAPER - CHECKER ON WINDOWS
 
 Usage
 -----
+left⬅️, right ➡️, dow ⬇️, up ⬆️ : move
+
+space : select
+
+f12 : unlock display
+
+
