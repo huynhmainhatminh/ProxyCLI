@@ -32,9 +32,9 @@ f12 : unlock display
 Your terminal needs to support true color. <br><br>
 These are tested terminals on different operating systems:
 
-| System | Tested | 
+| System | Tested |
 |--|--|--|
-| Windows 11| <div align="center">✅</div> | 
-| Windows 10 | <div align="center">✅</div> | 
-| Linux (ubuntu) | <div align="center">❌</div> | 
-| Mac OS | <div align="center">❌</div> | 
+| Windows 11| <div align="center">✅</div> | Works fine |
+| Windows 10 | <div align="center">✅</div> | Works without true color
+| Linux (ubuntu) | <div align="center">❌</div> | Works fine
+| Mac OS | <div align="center">❌</div> | Should work fine
