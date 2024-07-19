@@ -1,0 +1,6 @@
+{
+    "threads": 5000,
+    "urls": "http://azenv.net/",
+    "timeout": 10,
+    "retries": 1
+}
