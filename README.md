@@ -36,5 +36,5 @@ These are tested terminals on different operating systems:
 |--|--|--|
 | Windows 11| <div align="center">✅</div> | Works fine |
 | Windows 10 | <div align="center">✅</div> | Works without true color
-| Linux (ubuntu) | <div align="center">✅</div> | Works fine
+| Linux (ubuntu) | <div align="center">❌</div> | Works fine
 | Mac OS | <div align="center">❌</div> | Should work fine
