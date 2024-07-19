@@ -30,7 +30,6 @@ f12 : unlock display
 # Requirements
 
 Your terminal needs to support true color. <br><br>
-
 (terminal size 92, 32)
 
 These are tested terminals on different operating systems:
