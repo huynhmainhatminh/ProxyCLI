@@ -9,7 +9,7 @@ PROXIES PREMIUM SCRAPER - CHECKER ON WINDOWS
 - Sleek and intuitive UI for a beautiful user experience
 - Highly customizable settings to tailor the tool to your needs
 
-#### Windows Installation
+#### Installation
 
     $ git clone https://github.com/huynhmainhatminh/ProxyCLI
 
