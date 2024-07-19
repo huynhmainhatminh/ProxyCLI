@@ -2,6 +2,8 @@
 # DEMO
 PROXIES PREMIUM SCRAPER - CHECKER ON WINDOWS
 
+(if i have time i will complete my source code and will have official version)
+
 # Features
 
 - Asynchronous multithreading
