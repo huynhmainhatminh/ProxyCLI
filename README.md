@@ -3,7 +3,7 @@ PROXIES PREMIUM SCRAPER - CHECKER ON WINDOWS
 
 # Features
 
-- Multi-Threaded
+- Asynchronous multithreading
 - Keyword website check
 - Verify whether the proxy can access a specific website
 - Sleek and intuitive UI for a beautiful user experience
