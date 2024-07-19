@@ -35,12 +35,6 @@ Your terminal needs to support true color. <br><br>
 
 These are tested terminals on different operating systems:
 
-| System | Tested | Notes |
-|--|--|--|
-| Windows 11| <div align="center">✅</div> | Works fine |
-| Windows 10 | <div align="center">✅</div> | Works without true color
-| Linux (ubuntu) | <div align="center">✅</div> | Works fine
-| Mac OS | <div align="center">❌</div> | Should work fine
 | System | Tested |
 |--|--|
 | Windows 11| <div align="center">✅</div> |
