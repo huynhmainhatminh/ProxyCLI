@@ -10,3 +10,6 @@ PROXIES PREMIUM SCRAPER - CHECKER ON WINDOWS
     $ pip install -r requirements.txt
 
     $ python proxy.py
+
+Usage
+-----
