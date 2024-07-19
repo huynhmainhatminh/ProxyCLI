@@ -28,3 +28,9 @@ space : select
 f12 : unlock display
 
 
+| System | Tested |
+|--|--|--|
+| Windows 11| <div align="center">✅</div> |
+| Windows 10 | <div align="center">✅</div> |
+| Linux (ubuntu) | <div align="center">❌</div> |
+| Mac OS | <div align="center">❌</div> |
