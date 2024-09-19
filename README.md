@@ -48,7 +48,9 @@ These are tested terminals on different operating systems:
 
 | STT | Họ và Tên |
 |--|--|
-| Windows 11| <div align="center">✅</div> |
-| Windows 10 | <div align="center">✅</div> |
-| Linux (ubuntu) | <div align="center">❌</div> |
-| Mac OS | <div align="center">❌</div> |
+| 01 | <div align="center">Huỳnh Mai Nhật Minh</div> |
+| 02 | <div align="center">Võ Tùng Sơn</div> |
+| 03 | <div align="center">Trần Hải Bằng</div> |
+| 04 | <div align="center">Phan Văn Thạnh</div> |
+| 05 | <div align="center">Nguyễn Hoàng Bách</div> |
+| 06 | <div align="center">Trần Ti Na</div> |
